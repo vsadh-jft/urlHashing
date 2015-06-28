@@ -1,0 +1,1 @@
+<img width="200px" height="200px" src="${resource(dir: 'images',file: 'groovy.png')}" />
